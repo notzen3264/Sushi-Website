@@ -25,7 +25,7 @@ cd Sushi-Website
 
 **Installation**
 
-Install the project dependencies using npm in both client and server folders:
+Install the project dependencies in the base project folder.
 
 ```bash
 npm install
