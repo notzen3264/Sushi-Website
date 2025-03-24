@@ -7,4 +7,4 @@ This repository contains the code for the shibui sushi co. website landing page,
 ## Installation
 1. Clone the repo:
    ```bash
-   [git clone https://github.com/your-username/sushi-haven.git](https://github.com/notzen3264/Sushi-Website.git)
+   git clone https://github.com/notzen3264/Sushi-Website.git
